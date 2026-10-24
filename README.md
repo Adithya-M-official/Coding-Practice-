@@ -34,8 +34,11 @@ python3 main.py
 ```
 
 ## Current Projects
+
 >🧠 Neural Networks [(let's go!)](ML-projects/'Neural Networks'/)
+
 >♟️ Chess Engine [(let's go!)](ML-projects/Chess/)
+
 >🕹️ Tic-Tac-Toe Bot [(let's go!)](ML-projects/TICTACTOE/)
 
 
