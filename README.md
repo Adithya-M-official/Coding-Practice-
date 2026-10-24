@@ -35,7 +35,7 @@ python3 main.py
 
 ## Current Projects
 
->🧠 Neural Networks [(let's go!)](ML-projects/'Neural Networks'/)
+>🧠 Neural Networks [(let's go!)](ML-projects/Neural%20Networks/)
 
 >♟️ Chess Engine [(let's go!)](ML-projects/Chess/)
 
