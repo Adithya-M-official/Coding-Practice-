@@ -2,6 +2,9 @@
 
 This is where I'll learn Machine Learning concepts that fascinate me! Feel free to watch along as I build! 
 
+---
+# Information On My ML Projects
+
 <table width="100%">
   <thead>
     <tr>
@@ -23,7 +26,7 @@ This is where I'll learn Machine Learning concepts that fascinate me! Feel free 
         <code>C++</code>
       </td>
       <td>
-      Building two from-scratch variants : A Numpy-based Python model, and a C++ model that uses custom build Matrix operations for calculations. Both are being worked on to support a Chess ai in the future.
+      Building two from-scratch variants : A Numpy-based Python model, and a C++ model that uses custom-built Matrix struct for calculations. Both are being worked on to support a Chess ai in the future.
       </td>
       <td> In Progress </td>
     </tr>
