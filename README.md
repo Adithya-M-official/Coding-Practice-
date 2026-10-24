@@ -1,2 +1,42 @@
-# Coding-Practice-
-Here I'll learn to code I'm many different programming languages. Feel free to watch me learn!
+<div align='center'>
+
+## Coding-Practice
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+***Here's where i will practice programming concepts that I find interesting - and those I want to learn! I'll learn mostly by projects, as I find learning by doing more entertaining and fun that watching tutorials.***
+
+</div>
+
+> [!NOTE]
+> ***This is a place where I will experiment with many programming languages and concepts - not a place for high level projects. I do work here whenever I can, and get free time to do so. I'll try to stay consistent, but there may be inconsistent commits.***
+
+## How To Run
+
+```bash
+#for compiling and running C++ files
+g++ main.cpp -o test && ./test
+#if permission is denied
+chmod +x test && ./test
+#to make compilation faster
+g++ -O3 main.cpp -o test && ./test
+```
+
+```bash
+# for running python files
+python main.py
+# OR
+python3 main.py
+```
+
+## Current Projects
+>🧠 Neural Networks [(let's go!)](ML-projects/'Neural Networks'/)
+>♟️ Chess Engine [(let's go!)](ML-projects/Chess/)
+>🕹️ Tic-Tac-Toe Bot [(let's go!)](ML-projects/TICTACTOE/)
+
+
+
