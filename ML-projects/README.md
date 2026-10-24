@@ -32,3 +32,12 @@ This is where I'll learn Machine Learning concepts that fascinate me! Feel free 
     </tr>
   </tbody>
 </table>
+
+$$
+\frac{\partial f}{\partial x} = \lim_{\Delta x \to 0} \frac{f(x + \Delta x, y) - f(x, y)}{\Delta x}
+$$
+
+
+```math
+\frac{\partial f}{\partial x} = \lim_{\Delta x \to 0} \frac{f(x + \Delta x, y) - f(x, y)}{\Delta x}
+```
