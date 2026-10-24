@@ -53,5 +53,8 @@ python3 main.py
 
 >🕹️ Tic-Tac-Toe Bot [(let's go!)](ML-projects/TICTACTOE/)
 
+----
+
+> For status on my projects [click here](ML-projects/)
 
 
