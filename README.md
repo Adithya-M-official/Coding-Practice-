@@ -1,6 +1,6 @@
 <div align='center'>
 
-# Coding-Sandbox
+# Coding-Sandbox 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,7 +15,7 @@
 > [!NOTE]
 > ***This is a place where I will experiment with many programming languages and concepts - not a place for high level projects. I do work here whenever I can, and get free time to do so. I'll try to stay consistent, but there may be inconsistent commits.***
 
-## How To Run
+## How To Run 🛠️
 ### C++
 ```bash
 #for compiling and running C++ files
@@ -45,7 +45,7 @@ python3 main.py
 ```
 ----
 
-## Current Projects
+## Current Projects 🗃️
 
 >🧠 Neural Networks [(let's go!)](ML-projects/Neural%20Networks/)
 
