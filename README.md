@@ -1,6 +1,6 @@
 <div align='center'>
 
-## Coding-Practice
+# Coding-Practice
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -16,22 +16,34 @@
 > ***This is a place where I will experiment with many programming languages and concepts - not a place for high level projects. I do work here whenever I can, and get free time to do so. I'll try to stay consistent, but there may be inconsistent commits.***
 
 ## How To Run
-
+### C++
 ```bash
 #for compiling and running C++ files
 g++ main.cpp -o test && ./test
 #if permission is denied
 chmod +x test && ./test
-#to make compilation faster
-g++ -O3 main.cpp -o test && ./test
 ```
+> [!NOTE]
+> ```bash
+> #to make compilation faster
+> g++ -O3 main.cpp -o test && ./test ```
 
+>[!WARNING]
+>Running the command creates an executable file - named 'test' in this case. Avoid committing such binary or executable files to version control.
+
+>[!Caution]
+>When running or compiling programs, make sure that you are in the same file where the program files are saved.
+>When compiling, make sure the executable exists in the same file as the main program file in order to avoid getting paths to datasets wrong.
+
+---
+### Python 
 ```bash
 # for running python files
 python main.py
 # OR
 python3 main.py
 ```
+----
 
 ## Current Projects
 
