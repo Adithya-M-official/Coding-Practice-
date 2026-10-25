@@ -1,6 +1,6 @@
 <div align='center'>
 
-# Coding-Sandbox 
+# Coding-Sandbox 📦
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,6 +36,7 @@ chmod +x test && ./test
 >When compiling, make sure the executable exists in the same file as the main program file in order to avoid getting paths to datasets wrong.
 
 ---
+
 ### Python 
 ```bash
 # for running python files
@@ -45,16 +46,9 @@ python3 main.py
 ```
 ----
 
-## Current Projects 🗃️
+## Current Project Field(s)
 
->🧠 Neural Networks [(let's go!)](ML-projects/Neural%20Networks/)
-
->♟️ Chess Engine [(let's go!)](ML-projects/Chess/)
-
->🕹️ Tic-Tac-Toe Bot [(let's go!)](ML-projects/TICTACTOE/)
-
-----
-
-> For status on my projects [click here](ML-projects/)
-
-
+| Domain / Link | Tech Used | Focus | Status |
+| :--- | :--- | :--- | :--- |
+| [🧠 Machine Learning](./Machine%20Learning) | ``Python`` ``C++`` ``Numpy`` ``Flask`` | Building custom implementations of Neural Networks, chess engines, and other games and teaching agents to play those games. | **🟢 Active** |
+| [Web Development](./Web%20Development) | ``HTML`` ``CSS`` ``JS`` ``React`` ``Python`` ``MySQL`` | Building responsive websites with html/css/js, with or without React framework, using python api's and SQL backends. | **🔵 Planned** |
