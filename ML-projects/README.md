@@ -1,71 +1,18 @@
+<div align="center">
+
 # ML-projects
 
 This is where I'll learn Machine Learning concepts that fascinate me! Feel free to watch along as I build! 
 
----
-# Information On My ML Projects
+</div>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="25%"> Sub Projects </th>
-      <th width="20%"> Tech Stack </th>
-      <th width="40%"> About </th>
-      <th width="15%"> Current Status </th>
-    </tr>
-  </thead>
-  
-  <tbody>
-    <tr>
-      <td>
-        <a href="./Neural%20Networks">
-          <b> 🧠 Neural Networks </b>
-        </a>
-      </td>
-      <td>
-        <code>Python</code>
-        <code>Numpy</code>
-        <code>C++</code>
-      </td>
-      <td>
-      Building two from-scratch variants : A Numpy-based Python model, and a C++ model that uses custom-built Matrix struct for calculations. Both are being worked on to support a Chess ai in the future.
-      </td>
-      <td> In Progress </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="./Chess">
-          <b> ♟️ Chess Engine </b>
-        </a>
-      </td>
-      <td>
-        <code>Python</code>
-        <code>Flask</code>
-        <code>C++</code>
-        <code>HTML/CSS/JS</code>
-      </td>
-      <td>
-        A chess engine working on a from-scratch neural network built in C++, state management, updation and move generation in python, api built using Flask, and displayed in a web page using html/css/js.
-      </td>
-      <td>
-        In Progress.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="./TicTacToe">
-          <b> 🕹️ TicTacToe </b>
-        </a>
-      </td>
-      <td>
-        <code>Python</code>
-        <code>Numpy</code>
-      </td>
-      <td>
-        Built 2 versions: A bot that uses minimax algorithm to calculate the best move, and a from-scratch RL agent that I have trained to play tictactoe, trained against the minimax model as the opponent.
-      </td>
-      <td> Functionable </td>
-    </tr>
-  </tbody>
-</table>
+---
+# 🗃️ Project Dashboard.
+
+| Project Name | Tech Stack | About | Current Status|
+| :--- | :--- | :--- | :---- |
+| **🧠 Neural Network** | `Python` `C++` `Numpy` | Building two from-scratch variants : A Numpy-based Python model, and a C++ model that uses custom-built Matrix struct for calculations. Both are being worked on to support a Chess ai in the future. | 🟡 In Progress |
+| **♟️ Chess Engine** | `Python` `C++` `HTML/CSS/JS` | A chess engine working on a from-scratch neural network built in C++, state management, updation and move generation in python, api built using Flask, and displayed in a web page using html/css/js. | 🟡 In Progress |
+| **🕹️ Tic-Tac-Toe Bot** | `Python` `Flask` | Built two versions: A bot that uses minimax algorithm to calculate the best move, and a from-scratch RL agent that I have trained to play tictactoe, trained against the minimax model as the opponent. | 🟢 Functional |
+
 
