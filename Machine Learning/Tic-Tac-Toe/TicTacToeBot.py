@@ -363,6 +363,6 @@ class Bot:
 #set to train.
 mode = None
 		
-tictactoe_agent = Bot(qtable_file = "tictactoeqtable.npy", render_mode = mode)
+tictactoe_agent = Bot(qtable_file = "Trained weights/tictactoeqtable.npy", render_mode = mode)
 		
-tictactoe_agent.train(100000) if tictactoe_agent.render_mode == None else tictactoe_agent.play_match()
+tictactoe_agent.train(15000) if tictactoe_agent.render_mode == None else tictactoe_agent.play_match()
