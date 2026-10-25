@@ -51,6 +51,21 @@ This is where I'll learn Machine Learning concepts that fascinate me! Feel free 
         In Progress.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="./TicTacToe">
+          <b> 🕹️ TicTacToe </b>
+        </a>
+      </td>
+      <td>
+        <code>Python</code>
+        <code>Numpy</code>
+      </td>
+      <td>
+        Built 2 versions: A bot that uses minimax algorithm to calculate the best move, and a from-scratch RL agent that I have trained to play tictactoe, trained against the minimax model as the opponent.
+      </td>
+      <td> Functionable </td>
+    </tr>
   </tbody>
 </table>
 
