@@ -266,8 +266,10 @@ class Bot:
 			print("Welcome! what would you like to do? (1/2)")
 	
 			choice = input(f"""
+
 2) Play a game!
 >>""")
+            # difficulty choice (1) in progress.
 
 			#if choice.strip() == "1":
 #				print("What would you like to change the difficulty to? (1/2/3/4)")
@@ -297,8 +299,6 @@ class Bot:
 				user_char = input(">> ").upper()
 				comp_char = "O" if user_char == "X" else "X"
 				engine = Engine(user_char, comp_char)
-				
-				#state_idx = engine.get_state_index()
 				
 				print("Okay, lets play! You get first move.")
 			
@@ -360,22 +360,9 @@ class Bot:
 							break
 			
 			
-		
+#set to train.
 mode = None
 		
 tictactoe_agent = Bot(qtable_file = "tictactoeqtable.npy", render_mode = mode)
 		
 tictactoe_agent.train(100000) if tictactoe_agent.render_mode == None else tictactoe_agent.play_match()
-#		
-#engine = Engine(user_char = "X", comp_char = "O")
-#engine.board.board = ["X","X","","","O","","","",""]
-
-#state_idx = engine.get_state_index()
-#q_values = tictactoe_agent.q_table[state_idx]
-
-#best_move = np.argmax(q_values)
-
-#print(engine.board.board)
-#print(state_idx)
-#print(q_values)
-#print(best_move)
