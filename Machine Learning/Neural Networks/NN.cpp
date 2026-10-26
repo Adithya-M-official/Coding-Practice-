@@ -98,7 +98,13 @@ struct Matrix {
         return result;
     }
 
-    Matrix multiplication(const Matrix& other, MultType type = MultType::Dot){}
+    Matrix multiplication(const Matrix& other, MultType type = MultType::Dot, isScalar = true){
+        if(type == MultType::Dot){
+            if(isScalar == true){
+                
+            }
+        }
+    }
                           
     //Matrix outerprod()
 
